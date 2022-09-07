@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662564758 source:d:\git\break the bricks\main.cpp
+	<iostream>
+	<conio.h>
+	<Windows.h>
+	<cstdlib>
+	<ctime>
+
